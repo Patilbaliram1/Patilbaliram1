@@ -3,7 +3,7 @@
 Welcome to my Data Analyst Portfolio! This website showcases my skills, projects, and experience as a Data Analyst intern and Computer Engineering student.
 
 ## Live Demo
-You can view the live portfolio here: [https://patilbaliram1.github.io](https://patilbaliram1.github.io)
+You can view the live portfolio here: [[https://patilbaliram1.github.io](https://patil-baliram-portfolio.vercel.app/#contact)](https://patilbaliram1.github.io)
 
 ---
 
